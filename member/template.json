@@ -1,0 +1,15 @@
+{
+	"name": "Your Name",
+	"twitter": [
+		"Array",
+		"of",
+		"TwitterID"
+	],
+	"introduce": "自己紹介",
+	"accounts": [
+		{
+			"service": "Service Name",
+			"id": "your id"
+		}
+	]
+}
