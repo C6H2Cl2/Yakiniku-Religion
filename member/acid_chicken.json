@@ -1,0 +1,32 @@
+{
+	"name": "硫酸鶏",
+	"twitter": [
+		{
+			"id": 752061552128200704,
+			"screen_name": "acid_chicken"
+		}
+	],
+	"introduce": "OutletTwitとかSweak Networkの人です。",
+	"accounts": [
+		{
+			"service": "Discord",
+			"id": "硫酸鶏#3925",
+			"internal": 220543069378969601
+		},
+		{
+			"service": "GitHub",
+			"id": "acid-chicken",
+			"internal": 20679825
+		},
+		{
+			"service": "Mastodon",
+			"users": [
+				{
+					"instance": "mstdn.osaka",
+					"id": "acid_chicken",
+					"internal": 4118
+				}
+			]
+		}
+	]
+}
