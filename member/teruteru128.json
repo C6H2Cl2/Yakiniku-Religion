@@ -1,0 +1,57 @@
+{
+	"name": "てるてる",
+	"twitter": [
+		{
+			"id": 533912006,
+			"screen_name": "teruteru128"
+		}
+	],
+	"introduce": "焼肉が食べたいてるてる坊主です。",
+	"accounts": [
+		{
+			"service": "Discord",
+			"id": "てるてる#5427",
+			"internal": 310413442760572929
+		},
+		{
+			"service": "GitHub",
+			"id": "teruteru128",
+			"internal": 8587246
+		},
+		{
+			"service": "Mastodon",
+			"users": [
+				{
+					"instance": "pawoo.net",
+					"id": "teruteru128",
+					"internal": 5943
+				},
+				{
+					"instance": "mstdn.jp",
+					"id": "teruteru128",
+					"internal": 69374
+				},
+				{
+					"instance": "mathtodon.online",
+					"id": "teruteru128",
+					"internal": 2254
+				},
+				{
+					"instance": "friends.nico",
+					"id": "teruteru128",
+					"internal": 7629
+				},
+				{
+					"instance": "qiitadon.com",
+					"id": "teruteru128",
+					"internal": 13252
+				},
+				{
+					"instance": "kinugasa.me",
+					"id": "teruteru128",
+					"internal": 13132
+				}
+			]
+		}
+	]
+}
